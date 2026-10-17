@@ -1,5 +1,4 @@
-# CursoDIO
-Dedicado ao envio do desafio NotebookLM
+# CursoDIO DESAFIO NOTEBOOK LM
 
 ## n8n Documentation and Setup Guide 
 
