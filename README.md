@@ -265,3 +265,38 @@ Qual a prática recomendada de segurança para proteger um fluxo do n8n acionado
   * *Justificativa*: No nó **AI Agent 2**, o agente principal avalia a necessidade do usuário e chama subagentes conectados às portas de ferramentas (*Tools*), permitindo modularizar fluxos de decisão [cite: 142, 143, 222].
 5. **Resposta Correta: B**
   * *Justificativa*: Endpoints públicos expostos por Webhooks devem ser protegidos por criptografia (HTTPS) e autenticação forte via chave/token em cabeçalhos para prevenir execuções não autorizadas [cite: 24, 70].
+
+  * Segue abaixo as fontes utlizadas nesse trabalho:
+
+1. **#1 Machine Learning Specialization [Course 1, Week 1, Lesson 1]** *(Vídeo do YouTube)*
+2. **10 Programming Books That Every Programmer Must Read Once in 2025 - GeeksforGeeks** *(URL)*
+3. **Automate the Boring Stuff with Python** *(URL)*
+4. **Book View - Layla Cultural Platform** *(URL)*
+5. **Curso Completo de N8N | Crie Agentes com IA** *(Vídeo do YouTube)*
+6. **Ecossistema Global de Aprendizagem Digital, Repositórios de Áudio e Frameworks de Validação Científica** *(Documento Markdown)*
+7. **Embaixador do N8N, especialista em criação de agentes de IA – Experience Podcast #46 – Luiz Eduardo** *(Vídeo do YouTube)*
+8. **Formação Pedagógica e Prática em Lógica de Programação: Uma Análise dos Principais Autores e Obras em Python e JavaScript** *(Documento Markdown)*
+9. **How to Access Textbook Audiobooks through O'Reilly | Library Lessons** *(Vídeo do YouTube)*
+10. **Introduction to Algorithms, fourth edition - Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Clifford Stein - Google Livros** *(URL)*
+11. **Invent with Python: Learn to program. For free.** *(URL)*
+12. **Learning JavaScript Data Structures and Algorithms by Loiane Groner | Goodreads** *(URL)*
+13. **Learning JavaScript Data Structures and Algorithms by Loiane Groner | Goodreads** *(URL)*
+14. **Logic and Computational Thinking with Python – A Little More Logical - Minnesota Libraries Publishing Project** *(URL)*
+15. **Melhores Livros de Lógica de Programação - Experimente Brasília** *(URL)*
+16. **Problem Solving With Algorithms And Data Structures Using Python - Goodreads** *(URL)*
+17. **Python Crash Course 4th Edition** *(URL)*
+18. **Structure and Interpretation of Computer Programs: JavaScript Edition - Goodreads** *(URL)*
+19. **TOP 10 SITES FOR FREE ONLINE EDUCATION 1. Coursera 2. edX 3. Khan Academy 4. Udemy 5. iTunesU Free Courses 6. MIT OpenCourseWare 7. Stanford Online 8. Codecademy 9. Open Culture Online Courses 10. Alison - Facebook** *(URL)*
+20. **The 25 most recommended programming books of all-time. - DEV Community** *(URL)*
+21. **The CRAAP Test and Evaluating Source Credibility in Research - CASRAI** *(URL)*
+22. **Think Python - 3rd Edition by Allen B Downey (Paperback) - Target** *(URL)*
+23. **Think Python - Green Tea Press** *(Arquivo PDF)*
+24. **Think Python 3rd Edition** *(URL)*
+25. **Think Python: How to Think Like a Computer Scientist - 2e - Open Textbook Library** *(URL)*
+26. **Top 5 Must-Read Programming Books for Beginners** *(Vídeo do YouTube)*
+27. **Welcome to Open Library | Open Library** *(URL)*
+28. **What Is the CRAAP Test? | Examples & Definition - QuillBot** *(URL)*
+29. **You Don't Know JS Yet Summary of Key Ideas and Review | Kyle Simpson - Blinkist** *(URL)*
+30. **You Don't Know JS Yet: Get Started - 2nd Edition** *(URL)*
+31. **getify/You-Dont-Know-JS: A book series (2 published editions) on the JS language. - GitHub** *(URL)*
+32. **n8n Docs** *(URL)*
